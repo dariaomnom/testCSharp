@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MyMonoProject/1.0.0": {
+        "runtime": {
+          "MyMonoProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMonoProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
